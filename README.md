@@ -99,7 +99,7 @@
     <p>20% of the supply is released gradually over 12 months, with a 3-month cliff. Promotes trust and market stability.</p>
   </div>  <div class="section">
     <h2>Liquidity Management</h2>
-    <p>10% allocated to maintain flexible, user-friendly trading liquidity.</p>
+    <p>20% allocated to maintain flexible, user-friendly trading liquidity.</p>
   </div>  <footer>
     <p>&copy; 2025 Auridiamond. All rights reserved. | <a href="https://auridiamond" style="color: #aaa; text-decoration: none;">auridiamond</a></p>
   </footer>
