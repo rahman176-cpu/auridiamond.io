@@ -86,9 +86,9 @@
   </div>  <div class="section">
     <h2>Tokenomics</h2>
     <ul>
-      <li>55% Bonding Curve</li>
-      <li>35% Public & Internal Vesting</li>
-      <li>10% Adaptive Liquidity</li>
+      <li>60% Bonding Curve</li>
+      <li>20% Public & Internal Vesting</li>
+      <li>20% Adaptive Liquidity</li>
     </ul>
     <p>This ensures transparency, price stability, and long-term resilience.</p>
   </div>  <div class="section">
@@ -96,7 +96,7 @@
     <p>Token price increases gradually with demand. Prevents whale dumping and encourages long-term holding.</p>
   </div>  <div class="section">
     <h2>Vesting Plan</h2>
-    <p>35% of the supply is released gradually over 24 months, with a 3-month cliff. Promotes trust and market stability.</p>
+    <p>20% of the supply is released gradually over 12 months, with a 3-month cliff. Promotes trust and market stability.</p>
   </div>  <div class="section">
     <h2>Liquidity Management</h2>
     <p>10% allocated to maintain flexible, user-friendly trading liquidity.</p>
